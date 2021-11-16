@@ -9,5 +9,5 @@ I'm Vinay Singh 🙋🏻‍♂️
 - 📫 How to reach me: vinaysthakur15@gmail.com
 - 😄 I Love Brainstorming Things , Watching Anime , Listening Music.
 
-![Vinay GitHub Statistics](https://github-readme-streak-stats.herokuapp.com/?user=KingVinay)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingVinay)
+![Vinay GitHub Statistics](https://github-readme-streak-stats.herokuapp.com/?user=KingVinay&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingVinay&theme=radical)
 

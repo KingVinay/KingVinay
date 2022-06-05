@@ -1,9 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">
 
 I'm Vinay Singh 🙋🏻‍♂️
 <hr>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="10px">&nbsp;***Talking about Personal Stuffs...***
 
 - 🔭 I’m currently working on Problem Solving (Using C++) and Web Design.
 - 🌱 I’m currently learning DSA , MERN , Game Design.

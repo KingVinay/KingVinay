@@ -3,6 +3,12 @@
 I'm Vinay Singh 🙋🏻‍♂️
 <hr>
 
+
+<br><br>
+[![@kingvinay's Holopin badges](https://holopin.me/kingvinay)](https://holopin.io/@kingvinay)
+<br><br>
+
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Talking about Personal Stuffs...***
 
 - 🔭 I’m currently working on Problem Solving (Using C++) and Web Design.
